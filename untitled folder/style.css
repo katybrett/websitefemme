@@ -1,0 +1,25 @@
+
+img{
+    position: absolute;
+    max-height: 60vh;
+    top: 350px;
+    left: 530px;
+   
+} 
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+audio:not(.player){
+    display: none;
+}
+
+
+#keyboard{
+    width: 30vw;
+    position: absolute;
+    z-index: 0;
+    top: 30vh;
+    left: 35vw;
+}
